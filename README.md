@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-74bf2c) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedream-4-0-prompts-fr](https://github.com/h3yby-b/seedream-4-0-prompts-fr)
+- **Same model, other languages** — 9 more language builds: 中文 [seedream-4-0-api-cn](https://github.com/j6qn3i24az-9a/seedream-4-0-api-cn) · Deutsch [seedream-4-0-api-de](https://github.com/b2n87l0aoum6e/seedream-4-0-api-de) · Español `seedream-4-0-api-es` · Relay/gateway `seedream-4-0-api-gateway` · Bahasa [seedream-4-0-api-id](https://github.com/ccyzyl/seedream-4-0-api-id) · 日本語 [seedream-4-0-api-ja](https://github.com/g2xblz0ytan/seedream-4-0-api-ja) · 한국어 [seedream-4-0-api-ko](https://github.com/tl6kdw/seedream-4-0-api-ko) · Português `seedream-4-0-api-pt` · Русский `seedream-4-0-api-ru`
+- **More models in this language** — [midjourney-api-fr](https://github.com/apimartt1q/midjourney-api-fr) · [gemini-2-5-flash-image-preview-api-fr](https://github.com/haftslut7ha/gemini-2-5-flash-image-preview-api-fr) · [nano-banana-api-fr](https://github.com/f84q06w110/nano-banana-api-fr) · [gemini-3-1-flash-image-preview-api-fr](https://github.com/ok71ckyc/gemini-3-1-flash-image-preview-api-fr) · [nano-banana-2-api-fr](https://github.com/ms0p12t/nano-banana-2-api-fr) · [gemini-3-pro-image-preview-api-fr](https://github.com/w-44vba/gemini-3-pro-image-preview-api-fr)
+- **Topic hubs** — every build of this model, all languages: [seedream-4-0](https://github.com/topics/seedream-4-0) · [seedream-4-0-api](https://github.com/topics/seedream-4-0-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
